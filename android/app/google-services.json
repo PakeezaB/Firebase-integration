@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218376153281",
+    "project_id": "integration-ad400",
+    "storage_bucket": "integration-ad400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218376153281:android:939746aad4fc98ae600c40",
+        "android_client_info": {
+          "package_name": "com.example.firebase_integ_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4sy2dFWBFXIDC-DwZ8T5y0Gh2_OvX--o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
